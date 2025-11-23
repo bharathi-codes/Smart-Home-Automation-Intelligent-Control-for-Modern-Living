@@ -58,9 +58,6 @@ if (Firebase.getString(firebaseData, lightPath)) {
 }
 ```
 
-## 📸 Screenshots
-(Add images here)
-
 ## 🧠 Future Enhancements
 - Google Home/Alexa integration  
 - Mobile App  
